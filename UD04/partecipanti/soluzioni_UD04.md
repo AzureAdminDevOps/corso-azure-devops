@@ -1,19 +1,5 @@
 # soluzioni_UD04
 
-Soluzioni complete delle domande e delle attività con risposta presenti nei materiali partecipante della UD04.
-
-Le sezioni seguono i file della UD nell'ordine di utilizzo.
-
----
-
-# `README.md`
-
-Il file `README.md` contiene istruzioni operative, ordine dei materiali e consegne richieste.
-
-**Non contiene domande esplicite da risolvere.**
-
----
-
 # `00_CONCETTI.md`
 
 ## Domande di controllo
