@@ -976,7 +976,9 @@ motivando la risposta.
 
 ---
 
-# 17. Cleanup: eliminare prima ciò che vive fuori dal Resource Group
+# 17. Cleanup: Attenzione da svolgere dopo il Laboratorio autonomo
+
+## Eliminare prima ciò che vive fuori dal Resource Group
 
 Prima di eliminare il Resource Group principale dobbiamo ricordare che la diagnostic setting dell'Activity Log è a livello **subscription**.
 
