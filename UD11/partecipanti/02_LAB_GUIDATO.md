@@ -176,9 +176,18 @@ oppure:
 az provider register --namespace Microsoft.OperationalInsights
 ```
 
+verificare anche se necessario:
+```bash
+az provider register --namespace Microsoft.ContainerRegistry
+```
+
+
 Ripetere il controllo finché lo stato diventa `Registered` prima di creare l'Environment.
 
 ---
+
+
+
 
 # 4. Preparare i nomi delle risorse
 
