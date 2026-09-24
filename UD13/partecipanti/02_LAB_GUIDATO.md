@@ -259,11 +259,11 @@ Poi:
 
 ```bash
 az network vnet subnet show \
-  --resource-group rg-ud12-tf \
-  --vnet-name vnet-ud13 \
-  --name snet-app \
-  --query "{Name:name,Prefix:addressPrefix}" \
-  --output table
+--resource-group rg-ud12-tf \
+--vnet-name vnet-ud13 \
+--name snet-app \
+--query "{Name:name,Prefix:addressPrefixes[0]}" \
+--output table
 ```
 
 ---
